@@ -1,5 +1,7 @@
 # Persephone V1 — Technical Spec
 
+The fuller [Persephone implementation](https://github.com/jinchuntan/whisp) includes the ESP32 firmware, API, transcription worker and host dashboard.
+
 **Project recognition: Top 5 finalist · Robotics & Physical AI, Agentic AI Build Week 2026**
 
 Built with [Nathan Hor](https://github.com/NathanHor22). [Project and award record](https://www.fovea.space/#recognition).
