@@ -1,5 +1,13 @@
 # Persephone V1 — Technical Spec
 
+**Project recognition: Top 5 finalist · Robotics & Physical AI, Agentic AI Build Week 2026**
+
+Built with [Nathan Hor](https://github.com/NathanHor22). [Project and award record](https://www.fovea.space/#recognition).
+
+This public repository contains **V1 networking-badge design notes**. It does not contain the complete hackathon firmware or a finished deployment. The related [Whisp voice Q&A backend](https://github.com/jinchuntan/whisp-voice-qa) contains the public FastAPI server and host dashboard.
+
+[Original design repository](https://github.com/NathanHor22/persephone)
+
 **A wearable networking system for events.** Attendees register with a webcam, wear a BLE badge, press a button to log the people they meet, and review every encounter on a personal dashboard afterward with one-click connect to LinkedIn and GitHub.
 
 **V1 scope: no camera on the badge, no face matching.** Identity comes from BLE beacons exchanged between badges. Face capture at registration and candid face matching are deferred to V2. This lets V1 ship for one real event without the longest-tuning, highest-risk component.
